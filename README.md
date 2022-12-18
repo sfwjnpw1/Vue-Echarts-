@@ -1,24 +1,20 @@
 # myvue
 
-## Project setup
+### install nodejs for your computer system，you can enter https://nodejs.org/zh-cn/download/
+```
+nodejs install
+```
+### download this file
+
+### unzip file and then drop in vscode 
+
+### new a terminal to install development 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### at last ,run
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
